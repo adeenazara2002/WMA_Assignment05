@@ -1,0 +1,36 @@
+body{
+    background-color:#EADDCA;
+}
+.res{
+    color: #5C4033;
+    text-shadow: 3px 1px 3px #5C4033;
+    font-family:'Times New Roman', Times, serif
+}
+hr{
+    border: 1px solid #5C4033;
+}
+
+.headings{
+   color: #5C4033;
+   font-family:'Times New Roman', Times, serif
+}
+
+.h3{
+    color: #967969;
+    font-family: sans-serif;
+ }
+
+.text{
+    color: #967969;
+    font-family: sans-serif;
+} 
+.connect{
+    color: #5C4033;
+    font-family:'Times New Roman', Times, serif
+} 
+
+.text li a{
+    text-decoration: none;
+    color: #967969;
+    font-family: sans-serif;
+}
